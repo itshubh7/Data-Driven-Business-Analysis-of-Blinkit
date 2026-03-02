@@ -26,13 +26,16 @@ The dashboard tracks:
 Total revenue generated
 Category-wise contribution
 Fat content distribution impact
+
 🔹 2. Outlet Analysis
 Performance by outlet size (Small / Medium / High)
 Sales comparison across Tier 1, Tier 2 & Tier 3 cities
 Outlet type analysis
+
 🔹 3. Time-Based Insights
 Sales trend by establishment year
 Growth pattern visualization
+
 🔹 4. Interactive Features
 Dynamic filters
 Drill-down capabilities
