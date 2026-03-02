@@ -4,20 +4,31 @@ The dashboard transforms raw retail data into actionable business insights using
 🎯 Project Objectives
 
 The goal of this analysis was to:
+
 📊 Evaluate total and average sales performance
+
 🏪 Compare outlet performance across different tiers
+
 🛍️ Identify high-performing product categories
+
 📍 Analyze sales distribution by outlet location
+
 📅 Study sales trends based on establishment year
+
 🥗 Understand impact of product attributes (like fat content)
 
 📈 Key Business KPIs
 
 The dashboard tracks:
+
 💰 Total Sales
+
 📦 Number of Items Sold
+
 ⭐ Average Rating
+
 📊 Average Sales per Item
+
 🏬 Outlet-Level Performance
 
 📊 Dashboard Highlights
@@ -45,14 +56,21 @@ Hover tooltips with detailed metrics
 🧠 Key Insights Derived
 
 ✔️ Medium-sized outlets generated the highest overall revenue
+
 ✔️ Tier 3 cities showed strong performance potential
+
 ✔️ Certain product categories consistently dominated sales
+
 ✔️ Outlet establishment year influenced revenue stability
+
 ✔️ Customer ratings showed correlation with repeat sales
 
 🛠️ Tools & Technologies Used
-Tool	Purpose
+
 📊 Power BI	Dashboard 
+
 📑 Excel
+
 🧹 Data Cleaning,	Data transformation & modeling
+
 📈 DAX	KPI calculations & measures
